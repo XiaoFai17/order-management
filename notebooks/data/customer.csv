@@ -1,0 +1,21 @@
+id_customer,nama_customer,email,telepon,alamat,kota,region,metode_pembayaran_disetujui
+1,"Balidin Dongoran, S.T.",ivanmandala@example.net,+62 (081) 960-0133,"Jalan Cihampelas No. 4, Tual, Jawa Timur 54235",Malang,Jawa Timur,Transfer
+2,Bakiman Wibowo,tambamalik@example.net,+62 (0078) 161 8495,"Jl. PHH. Mustofa No. 316, Palu, Papua 55341",Medan,Sumatera Utara,Transfer
+3,Hj. Ella Nasyidah,gamantohariyah@example.com,+62 (0835) 030 5641,"Gg. Suniaraja No. 7, Kota Administrasi Jakarta Selatan, Jawa Barat 88496",Jakarta,DKI Jakarta,Transfer
+4,drg. Karen Prasetya,cicilailasari@example.org,+62-012-269-1669,"Jl. Jayawijaya No. 51, Palangkaraya, JI 04828",Malang,Jawa Timur,Kartu Kredit
+5,Tedi Utami,sari89@example.org,+62 (52) 880 9570,"Jalan Cikutra Barat No. 911, Batam, Jawa Barat 78248",Denpasar,Bali,Transfer
+6,"Ir. Lintang Prabowo, M.Pd",leowacana@example.net,+62 (787) 133-1509,"Jl. Medokan Ayu No. 310, Batu, Sumatera Selatan 47382",Palembang,Sumatera Selatan,COD
+7,"Queen Permata, M.Kom.",warsitawasita@example.org,+62 (016) 566-7010,"Jl. Kebonjati No. 872, Denpasar, KR 31781",Surabaya,Jawa Timur,Transfer
+8,Martana Namaga,iswahyudijasmani@example.org,(077) 360-2606,"Gang Stasiun Wonokromo No. 7, Depok, LA 09805",Malang,Jawa Timur,Transfer
+9,Asirwanda Padmasari,hmardhiyah@example.org,+62-081-219-1361,"Gg. Kapten Muslihat No. 9, Kota Administrasi Jakarta Selatan, Kalimantan Tengah 34624",Jakarta,DKI Jakarta,Kartu Kredit
+10,Iriana Hidayanto,haryantiputi@example.net,+62 (018) 384-2513,"Gg. R.E Martadinata No. 4, Surakarta, MA 24118",Palembang,Sumatera Selatan,Transfer
+11,Empluk Suryono,mahfudputra@example.net,+62 (0874) 016 4005,"Gg. M.H Thamrin No. 6, Binjai, DI Yogyakarta 80598",Denpasar,Bali,Transfer
+12,Irfan Mahendra,samosiromar@example.org,+62 (331) 586-9232,"Jl. Rumah Sakit No. 34, Tanjungpinang, Gorontalo 07337",Denpasar,Bali,COD
+13,Ina Pradana,asirwadawahyuni@example.org,(054) 145 8685,"Jalan Indragiri No. 01, Malang, Maluku Utara 98169",Jakarta,DKI Jakarta,COD
+14,Dodo Gunawan,hadriansyah@example.net,+62-561-595-1484,"Gang M.H Thamrin No. 366, Singkawang, MA 80443",Palembang,Sumatera Selatan,COD
+15,Winda Prastuti,wadi77@example.net,+62-872-148-9513,"Jl. Astana Anyar No. 379, Palu, SR 67632",Surabaya,Jawa Timur,Transfer
+16,"Malik Ardianto, S.IP",lprasetya@example.net,087 083 1727,"Gang Jamika No. 7, Kota Administrasi Jakarta Selatan, KU 87347",Semarang,Jawa Tengah,COD
+17,Nasab Suwarno,kenarisitorus@example.com,0812236231,"Gang Veteran No. 366, Tual, PB 05466",Medan,Sumatera Utara,Transfer
+18,H. Oman Palastri,ayuprasetya@example.com,(070) 656-2729,"Jl. H.J Maemunah No. 27, Banjarbaru, Kepulauan Bangka Belitung 53755",Jakarta,DKI Jakarta,COD
+19,"dr. Estiawan Andriani, S.T.",halimaharis@example.net,0805310033,"Jl. Waringin No. 1, Pangkalpinang, Kepulauan Bangka Belitung 29912",Malang,Jawa Timur,Transfer
+20,Cici Prastuti,saragihkasiyah@example.net,(063) 193 1491,"Gang Cikutra Timur No. 5, Padangpanjang, Sumatera Barat 65726",Semarang,Jawa Tengah,Transfer

@@ -1,0 +1,26 @@
+id_barang,nama_barang,kategori,harga_default,lokasi_gudang,stok
+101,Boneka Teddy Bear,Mainan,75000,Gudang Surabaya,65
+102,Mobil Hot Wheels,Mainan,50000,Gudang Jakarta,64
+103,Lego Classic Set,Mainan Edukasi,250000,Gudang Bandung,97
+104,Robot Remote,Elektronik,300000,Gudang Surabaya,53
+105,Puzzle Anak,Mainan Edukasi,45000,Gudang Yogyakarta,25
+106,Play-Doh Set,Mainan Edukasi,60000,Gudang Jakarta,78
+107,Balok Kayu Warna,Mainan Edukasi,80000,Gudang Bandung,88
+108,Kereta Thomas Mini,Mainan,40000,Gudang Malang,35
+109,Mainan Masak-Masakan,Mainan,65000,Gudang Surabaya,68
+110,Mainan Dokter-Dokteran,Mainan Edukasi,70000,Gudang Jakarta,30
+111,Puzzle Huruf Alfabet,Mainan Edukasi,55000,Gudang Semarang,90
+112,Flashcard Binatang,Mainan Edukasi,30000,Gudang Denpasar,57
+113,Boneka Barbie,Mainan,120000,Gudang Palembang,100
+114,Drone Mini,Elektronik,350000,Gudang Bandung,99
+115,RC Car Jeep,Elektronik,275000,Gudang Jakarta,66
+116,Mainan Bongkar Pasang Mobil,Mainan Edukasi,85000,Gudang Surabaya,93
+117,Monopoli Junior,Mainan Edukasi,95000,Gudang Yogyakarta,44
+118,Kartu Uno,Mainan,25000,Gudang Makassar,28
+119,Magic Sand Set,Mainan Edukasi,70000,Gudang Surabaya,25
+120,Buku Cerita Interaktif,Mainan Edukasi,40000,Gudang Medan,49
+121,Papan Tulis Magnetik,Mainan Edukasi,80000,Gudang Jakarta,57
+122,Mainan Sains Anak,Mainan Edukasi,125000,Gudang Yogyakarta,30
+123,Finger Painting Kit,Mainan Edukasi,60000,Gudang Malang,49
+124,Puzzle Dunia Hewan,Mainan Edukasi,45000,Gudang Bandung,32
+125,Mainan Keyboard Mini,Elektronik,220000,Gudang Jakarta,68
