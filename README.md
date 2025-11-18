@@ -11,19 +11,19 @@ Proyek ini menunjukkan alur lengkap bagaimana data mentah diproses menjadi insig
 Proyek ini menunjukkan seluruh alur kerja data:
 
 1. **Data Generation**
-* Python (Jupyter Notebook) menghasilkan dataset barang, customer, faktur, faktur_detail, dan pengiriman.
+    * Python (Jupyter Notebook) menghasilkan dataset barang, customer, faktur, faktur_detail, dan pengiriman.
 2. **Data Warehouse Setup**
-* Pembuatan database dan tabel di PostgreSQL menggunakan file SQL.
+    * Pembuatan database dan tabel di PostgreSQL menggunakan file SQL.
 3. **ETL Process**
-* Pembersihan, transformasi, dan pembuatan dimensional tables (dim customer, dim product, dim shipping, dim date) dan fact table (fact_sales).
-* Menggunakan file .ktr.
+    * Pembersihan, transformasi, dan pembuatan dimensional tables (dim customer, dim product, dim shipping, dim date) dan fact table (fact_sales).
+    * Menggunakan file .ktr.
 4. **Analytical Processing**
-* Pembuatan dua view:
-    * tampilan_kinerja_penjualan_produk
-    * tampilan_penjualan_harian
-* Dilanjutkan dengan klastering dan forecasting pada data hasil view.
+    * Pembuatan dua view:
+        * tampilan_kinerja_penjualan_produk
+        * tampilan_penjualan_harian
+    * Dilanjutkan dengan klastering dan forecasting pada data hasil view.
 5. **Business Intelligence Dashboard**
-* Power BI digunakan untuk menampilkan performa penjualan, segmentasi pelanggan, serta proyeksi penjualan ke depan.
+    * Power BI digunakan untuk menampilkan performa penjualan, segmentasi pelanggan, serta proyeksi penjualan ke depan.
 
 ## 🗂️ Folder Structure
 
