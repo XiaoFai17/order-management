@@ -25,6 +25,8 @@ Proyek ini menunjukkan seluruh alur kerja data:
 5. **Business Intelligence Dashboard**
     * Power BI digunakan untuk menampilkan performa penjualan, segmentasi pelanggan, serta proyeksi penjualan ke depan.
 
+---
+
 ## 🗂️ Folder Structure
 
 ```bash
@@ -61,6 +63,9 @@ order-management/
 └── sql/
     └── create_sql.sql
 ```
+
+---
+
 ## 🛠️ Technologies Used
 
 **Data Engineering**
