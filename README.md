@@ -46,19 +46,18 @@ order-management/
 ├── notebooks/
 │   ├── create.ipynb
 │   ├── om_cluster.ipynb
-│   └── om_forecast.ipynb
-│
-├── data/
-│   ├── barang.csv
-│   ├── customer.csv
-│   ├── dim_customer.csv
-│   ├── dim_date.csv
-│   ├── dim_product.csv
-│   ├── dim_shipping.csv
-│   ├── fact_sales.csv
-│   ├── faktur.csv
-│   ├── faktur_detail.csv
-│   └── pengiriman.csv
+│   ├── om_forecast.ipynb
+│   └── data/
+│       ├── barang.csv
+│       ├── customer.csv
+│       ├── dim_customer.csv
+│       ├── dim_date.csv
+│       ├── dim_product.csv
+│       ├── dim_shipping.csv
+│       ├── fact_sales.csv
+│       ├── faktur.csv
+│       ├── faktur_detail.csv
+│       └── pengiriman.csv
 │
 └── sql/
     └── create_sql.sql
